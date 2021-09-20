@@ -8,6 +8,9 @@
     {
       "path": "DemoDayz",
       "name": "server"
+    },
+    {
+      "path": ".github"
     }
   ],
   "settings": {
